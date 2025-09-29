@@ -2,6 +2,6 @@
 
 Set of recipes as given by my grandma.
 
-* Rice Noodle (TODO)
-* Rice Cake (TODO)
-* Rice (TODO)
+* Pizza (TODO)
+* Sauces (TODO)
+* Spreads (TODO)
