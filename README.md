@@ -5,7 +5,8 @@ Set of recipes as given by my grandma.
 * Rice Noodle 
 * Rice Cake 
 * Rice 
-* Fried Rice
+* pizzas
+   - [base](./pizzas/base.md)
 
 Sauce
 * Spicy
