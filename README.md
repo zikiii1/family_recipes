@@ -2,7 +2,11 @@
 
 Set of recipes as given by my grandma.
 
-* Rice Noodle (TODO)
-* Rice Cake (TODO)
-* Rice (TODO)
-* Fried rice
+* Rice Noodle 
+* Rice Cake 
+* Rice 
+* Fried Rice
+
+Sauce
+* Spicy
+* Sweet and Sour
